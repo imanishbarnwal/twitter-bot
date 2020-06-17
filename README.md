@@ -8,9 +8,9 @@ A Python-built Twitter retweet bot using Tweepy. Searches and retweets based on 
 -   [Tweepy](http://www.tweepy.org/)  - An easy-to-use Python library for accessing the Twitter API.
 
     `pip install tweepy`
--	Make a [Twitter Developer Account]([https://developer.twitter.com/en](https://developer.twitter.com/en)).
+-	Make a [Twitter Developer Account](https://developer.twitter.com/en).
 -   Make sure you fully understand  [Twitter's Rules on Automation](https://support.twitter.com/articles/76915). Play nice. Don't spam!
-- And you need to have [Heroku Account](heroku.com).
+- And you need to have [Heroku Account](https://dashboard.heroku.com/).
 
 ## Instructions
 
@@ -29,11 +29,11 @@ A Python-built Twitter retweet bot using Tweepy. Searches and retweets based on 
 -   Run your bot.py script.
 
 	`python bot.py`
--	If it runs without any errors now it need to be deploy in [Heroku](heroku.com).
+-	If it runs without any errors now it need to be deploy in [Heroku](https://dashboard.heroku.com/).
 -	Once deployment done you're good to go you have successfully created a twitter bot. Enjoy!!
 
 ## Additional Information
 
 -   Note: Make sure that your bot.py and credentials.py files are, obviously, in the same directory.
-- If you stuck any where you can contact me in my [Twitter]([https://twitter.com/imanishbarnwal](https://twitter.com/imanishbarnwal)) or [LinkedIn]([https://www.linkedin.com/in/imanishbarnwal/](https://www.linkedin.com/in/imanishbarnwal/)) I will be glad to help you.
-- And you must checkout my another [twitter bot]([https://twitter.com/mlb0t](https://twitter.com/mlb0t)) which share information related to Machine Learning.
+- If you stuck any where you can contact me in my [Twitter](https://twitter.com/imanishbarnwal) or [LinkedIn](https://www.linkedin.com/in/imanishbarnwal/) I will be glad to help you.
+- And you must checkout my another [twitter bot](https://twitter.com/mlb0t) which share information related to Machine Learning.
