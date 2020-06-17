@@ -1,7 +1,7 @@
 
 # Twitter Retweet Bot using Python
 
-A Python-built Twitter retweet bot using Tweepy. Searches and retweets based on hashtag or keyword. Can do multiple keywords, or hashtags.
+A Python built twitter retweet bot using Tweepy. Searches and retweets based on hashtag or keyword. Can do for multiple keywords, or hashtags. It can be used for automation and marketing purposes.
 
 ## What You Need 
 
@@ -17,7 +17,7 @@ A Python-built Twitter retweet bot using Tweepy. Searches and retweets based on 
 -   Create a new directory to contain all of your retweet bot files.
 
 	`mkdir retweet-bot`
-- Follow all the steps here 
+- Follow all the steps as shown in this [YouTube Video](https://youtu.be/lJdH9WWkd24)
 
 -   Create a new  [Twitter Application](https://apps.twitter.com/app/new). This is where you'll generate your keys, tokens, and secrets.
 -   Fill in your keys, tokens, and secrets in the credentials.py file.
