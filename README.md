@@ -32,6 +32,12 @@ A Python-built Twitter retweet bot using Tweepy. Searches and retweets based on 
 -	If it runs without any errors now it need to be deploy in [Heroku](https://dashboard.heroku.com/).
 -	Once deployment done you're good to go you have successfully created a twitter bot. Enjoy!!
 
+## For Heroku
+You need to make three other files:
+- runtime.txt (Includs Python Version `python-3.8.1`)
+- requirements.txt (`pip freeze > requirements.txt`)
+- Procfile (`worker: python bot.py`)
+
 ## Additional Information
 
 -   Note: Make sure that your bot.py and credentials.py files are, obviously, in the same directory.
