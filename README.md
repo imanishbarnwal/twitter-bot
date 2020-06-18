@@ -34,7 +34,7 @@ A Python built twitter retweet bot using Tweepy. Searches and retweets based on 
 
 ## For Heroku
 You need to make three other files:
-- runtime.txt (Includs Python Version `python-3.8.1`)
+- runtime.txt (Includes Python Version `python-3.8.1`)
 - requirements.txt (`pip freeze > requirements.txt`)
 - Procfile (`worker: python bot.py`)
 
